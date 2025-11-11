@@ -1,5 +1,5 @@
 NLP project analyzing global reactions to Donald Trump’s 2025 statement on Nigeria using sentiment analysis, topic modeling, and named entity recognition.
-# 🧠 Trump-Nigeria Sentiment Analysis
+# 🧠 Trump Nigeria Sentiment Analysis
 
 ** Natural Language Processing (NLP) project analyzing global reactions to Donald Trump’s 2025 statement on Nigeria using sentiment analysis, topic modeling, and named entity recognition.**
 
